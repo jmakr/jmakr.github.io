@@ -11,7 +11,7 @@ description:
   Doctoral candidate at the University of Virginia, Department of English.
   Researcher of digital technologies, critical theory and contemporary literature.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "jmakr.github.io" # the base hostname & protocol for your site
 twitter_username: jmakr
 github_username:  jmakr
 
