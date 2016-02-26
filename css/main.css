@@ -36,17 +36,18 @@ footer {
 }
 
 ul.posts { 
-    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1.19em;
     line-height: 1.6em;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #333;
     
 }
 
 ul.posts li {
     list-style: none;
-    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1.19em;
     line-height: 1.6em;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+
     color: #333;
 }
