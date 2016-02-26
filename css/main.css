@@ -36,7 +36,10 @@ footer {
 }
 
 ul.posts { 
-    font-size: 1.25em;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.19em;
+    line-height: 1.6em;
+    color: #333;
     
 }
 
