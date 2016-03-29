@@ -2,6 +2,7 @@ header {
   display: block;
   text-align: center;
   border-bottom: thin solid #d5d5d5;
+  text-size: 3em;
   margin-bottom: 0;
   margin-top: 0;
   
@@ -10,8 +11,7 @@ header {
 h1#logo {
   display: block;
   text-align: center;
-  font-family: "Alegreya Sans SC", serif;
-  text-size: 3em;
+  font-family: "Alegreya+Sans+SC", serif;
   font-weight: 400;
   margin-top: 0em;
   
