@@ -4,9 +4,7 @@ header {
   border-bottom: thin solid #98AFC7;
   margin-bottom: 0;
   margin-top: 0;
-  header * {
-    display: inline;
-  }
+  
 }
 
 h1#logo {
