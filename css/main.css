@@ -27,12 +27,13 @@ a:hover {
 h1#logo {
   display: block;
   text-align: center;
+  font-size: 3em;
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
-  margin-top: 9em;
+  margin-top: 0em;
 }
 h2 {
-    font-size: 3em;
+    font-size: 1em;
     font-family: "Lato", sans-serif;
 }
 p {
