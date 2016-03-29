@@ -4,15 +4,14 @@
 //$logo-font-stack: "Minion Pro", Garamond, serif;
 
 
-$font-stack: Forum, sans-serif;
-$logo-font-stack: EB+Garamond, serif;
+			
 
 body {
     margin: 90px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:$font-stack;
+    font-family: <link href='https://fonts.googleapis.com/css?family=Forum' rel='stylesheet' type='text/css'>;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -32,7 +31,7 @@ a:hover {
 h1#logo {
   display: block;
   text-align: center;
-  font-family: $logo-font-stack;
+  font-family: <link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>;
   font-size: xx-large;
   font-weight: bold;
   font-variant: small-caps;
@@ -40,10 +39,10 @@ h1#logo {
 }
 h2 {
     font-size: 3em;
-    font-family:$font-stack;
+    font-family: <link href='https://fonts.googleapis.com/css?family=Forum' rel='stylesheet' type='text/css'>;
 }
 p {
-    font-family:$font-stack;
+    font-family: <link href='https://fonts.googleapis.com/css?family=Forum' rel='stylesheet' type='text/css'>;
     font-size: 1.19em;
     line-height: 1.6em;
     color: #333;
@@ -57,7 +56,7 @@ footer {
 ul.posts { 
     font-size: 1.19em;
     line-height: 1.6em;
-    font-family:$font-stack;
+    font-family: <link href='https://fonts.googleapis.com/css?family=Forum' rel='stylesheet' type='text/css'>;
     color: #333;
     
 }
@@ -66,7 +65,7 @@ ul.posts li {
     list-style: none;
     font-size: 1em;
     line-height: 1.6em;
-    font-family: $font-stack;
+    font-family: <link href='https://fonts.googleapis.com/css?family=Forum' rel='stylesheet' type='text/css'>;
 
     color: #333;
 }
