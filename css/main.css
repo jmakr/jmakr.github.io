@@ -64,14 +64,10 @@ p2 {
   
 }
 
-.image {
+.imagebox {
     float:left;
     width: 50%;
     height: 550px;
-    padding-right: 80px;
-    
-  
-  
 }
 
 footer {
