@@ -60,7 +60,7 @@ p {
 .image {
     width: 50%;
     height: 700px;
-    float:right;
+    float:left;
     padding:10px;
   
 }
