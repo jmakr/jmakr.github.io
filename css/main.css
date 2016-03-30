@@ -64,8 +64,8 @@ footer {
     -webkit-column-gap: 10px; /* Chrome, Safari, Opera */
     -moz-column-gap: 10px; /* Firefox */
     column-gap: 10px;
-    -webkit-column-width: 320px; /* Chrome, Safari, Opera */
-    column-width: 320px;
+    -webkit-column-width: 250px; /* Chrome, Safari, Opera */
+    column-width: 250px;
   
 }
 
