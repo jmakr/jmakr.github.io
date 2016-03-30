@@ -56,6 +56,14 @@ footer {
     font-size: .8em;
 }
 
+
+.blurb {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+  
+}
+
 ul.posts { 
     font-size: 1.19em;
     line-height: 1.6em;
