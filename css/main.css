@@ -51,7 +51,7 @@ p {
 
 .blurb {
     width: 50%;
-    height: 700px;
+    height: auto;
     float: left;
     padding:10px;
   
@@ -59,6 +59,7 @@ p {
 
 .image {
     width: 50%;
+    height: auto;
     float:right;
     padding:10px;
   
