@@ -53,15 +53,19 @@ p {
 .blurb {
     float: left;
     width: 45%;
-    height: 400px;
+    height: 550px;
   
+  
+}
+.blurbpara {
+    padding:10px;
   
 }
 
 .image {
     float:left;
     width: 50%;
-    height: 400px;
+    height: 550px;
   
   
 }
