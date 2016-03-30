@@ -68,6 +68,8 @@ p2 {
     float:left;
     width: 50%;
     height: 550px;
+    margin-top:auto; 
+    margin-bottom:auto;
 }
 
 footer {
