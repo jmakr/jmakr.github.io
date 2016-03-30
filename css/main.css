@@ -52,14 +52,14 @@ p {
 
 .blurb {
     float: left;
-    width: 50%;
+    width: 45%;
     height: 400px;
   
   
 }
 
 .image {
-    float:middle;
+    float:left;
     width: 50%;
     height: 400px;
   
