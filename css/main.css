@@ -22,9 +22,9 @@ h1#logo {
 body {
     background-color: #F6F6F6;
     margin-top: 10px;
-    margin-right: 90px auto;
-    margin-bottom: 90px auto;
-    margin-left: 90px auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
     width: 70%;
 }
 nav ul, footer ul {
