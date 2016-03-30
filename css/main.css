@@ -48,6 +48,11 @@ p {
     line-height: 1.6em;
     color: #333;
 }
+.wrap {
+  width:100%;
+  height:auto;
+  
+}
 
 .blurb {
     width: 50%;
