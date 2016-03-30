@@ -71,6 +71,10 @@ p2 {
     height: 550px;
 
 }
+.imagecenter{
+    display: block;
+    margin: 0 auto;
+}
 
 footer {
     clear:both;
