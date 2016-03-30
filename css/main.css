@@ -19,6 +19,7 @@ h1#logo {
 }	
 
 body {
+    background-color: #F6F6F6;
     margin: 90px auto;
     width: 70%;
 }
