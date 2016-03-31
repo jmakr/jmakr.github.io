@@ -79,8 +79,10 @@ p2 {
 
 footer {
     clear:both;
+    padding-top:20%;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    
 }
 nav ul, footer ul {
     font-family: "Lato", sans-serif;
