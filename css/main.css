@@ -52,16 +52,16 @@ p {
 
 .blurb {
     float: left;
-    width: 45%;
+    width: 50%;
     height: 550px;
-    align-items: center;
   
   
 }
 p2 {
     font-family: "Lato", sans-serif ;
     color: #333;
-    padding:10px;
+    display: block;
+    text-align:center;
   
 }
 
