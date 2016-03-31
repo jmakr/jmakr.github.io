@@ -53,7 +53,7 @@ p {
 .blurb {
     float: left;
     width: 48%;
-    height: 550px;
+    height: 65%;
     padding-left:1%;
   
   
@@ -69,7 +69,7 @@ p2 {
 .imagebox {
     float:left;
     width: 50%;
-    height: 550px;
+    height: 65%;
 
 }
 .imagecenter{
