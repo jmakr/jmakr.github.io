@@ -55,6 +55,7 @@ p {
     width: 48%;
     height: 65%;
     padding-left:1%;
+    padding-bottom:20%;
   
   
 }
@@ -70,6 +71,7 @@ p2 {
     float:left;
     width: 50%;
     height: 65%;
+    padding-bottom:20%;
 
 }
 .imagecenter{
@@ -79,7 +81,7 @@ p2 {
 
 footer {
     clear:both;
-    padding-top:20%;
+    
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     
