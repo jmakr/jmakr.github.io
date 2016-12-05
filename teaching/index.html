@@ -7,6 +7,7 @@ title: Teaching Portfolio
 
 
 <style>
+
 .sidenav {
     height: 100%;
     width: 0;
@@ -55,13 +56,16 @@ title: Teaching Portfolio
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="#">Digital Peripheries (Composition course, 2017)</a>
-  <a href="#">Gender Across New Media (Composition course, 2016)</a>
-  <a href="#">Past Courses</a>
+    padding-top: 5%;
+  <a href="#">Teaching History</a>
+  <a href="#">Courses Ready to Teach</a>
+  <a href="#">Course Evaluations</a>
   <a href="#">Statement of Teaching Philosophy</a>
 </div>
 
 <div id="main">
+  <h2>Sidenav Push Example</h2>
+  <p>Click on the element below to open the side navigation menu, and push this content to the right.</p>
   <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
 </div>
 
@@ -69,13 +73,11 @@ title: Teaching Portfolio
 function openNav() {
     document.getElementById("mySidenav").style.width = "250px";
     document.getElementById("main").style.marginLeft = "250px";
-    document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
 }
 
 function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
     document.getElementById("main").style.marginLeft= "0";
-    document.body.style.backgroundColor = "white";
 }
 </script>
 
