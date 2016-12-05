@@ -69,7 +69,7 @@ p2 {
 }
 
 .imagebox {
-    float:center;
+    float:left;
     width: 50%;
     height: 65%;
     padding-bottom:10%;
