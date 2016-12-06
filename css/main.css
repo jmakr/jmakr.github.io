@@ -19,6 +19,15 @@ h1#logo {
   
 }	
 
+.container {
+    height: 7em;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    
+}
 
 .helper {
     position: absolute;
