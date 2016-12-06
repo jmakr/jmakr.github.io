@@ -19,14 +19,14 @@ h1#logo {
   
 }	
 
-.container {
+.h1logocontainer {
     
     position: relative;
     
     
 }
 
-.helper {
+.h1logohelper {
     position: absolute;
     top: 50%;
     vertical-align: middle;
