@@ -1,6 +1,6 @@
 header {
   background-color: #FEFCFF;
-  height: 4em;
+  height: 5em;
   display: block;
   text-align: center;
   border-bottom: thin solid #d5d5d5;
@@ -15,7 +15,7 @@ h1#logo {
   text-align: center;
   font-family: "Crison Text", serif;
   font-size: 2em;
-  font-weight: 400;
+  font-weight: 200;
   
 }	
 
