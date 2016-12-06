@@ -64,9 +64,7 @@ p {
 }
 cvalignment
 {
-    float: none;
-    padding-left:4%;
-    padding-top:2%;
+    margin: auto;
     padding-bottom:5%;
   
 }
