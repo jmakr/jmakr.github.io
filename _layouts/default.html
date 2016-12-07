@@ -25,98 +25,13 @@
     			</div>
 			</div>
 		</header>
-		<style>
-		.sidenav {
-		    height: 100%;
-		    width: 0;
-		    position: fixed;
-		    z-index: 1;
-		    top: 0;
-		    left: 0;
-		    background-color: #111;
-		    overflow-x: hidden;
-		    transition: 0.5s;
-		    padding-top: 8%;
-		    font-family: "Lato", sans-serif;
-		    font-size:1em;
-    		  
-		}
-
-		.sidenav a {
-		    padding: 8px 8px 8px 32px;
-		    text-decoration: none;
-		    font-size: 25px;
-		    color: #818181;
-		    display: block;
-		    transition: 0.3s;
-		    padding-top: 8%;
-		    font-family: "Lato", sans-serif;
-		    font-size:1em;
-    		   
-		}
-
-		.sidenav a:hover, .offcanvas a:focus{
-		    color: #f1f1f1;
-			padding-top: 8%;
-		    font-family: "Lato", sans-serif;
-			font-size:1em;
-    		 
-		}
-
-		.sidenav .closebtn {
-		    position: absolute;
-		    top: 0;
-		    right: 25px;
-		    font-size: 36px;
-		    margin-left: 50px;
-			padding-top: 8%;
-		    font-family: "Lato", sans-serif;
-			font-size:1em;
-    		
-		}
-			
-		}
-
-		#main {
-		    transition: margin-left .5s;
-		    padding: 16px;
-		    font-family: "Lato", sans-serif;
-		    font-size:1em;
-		}
-
-		@media screen and (max-height: 450px) {
-		  .sidenav {padding-top: 15px;}
-		  .sidenav a {font-size: 18px;}
-		}
-		</style>
-			<body>
-
-			<div id="mySidenav" class="sidenav"> 
-<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-
-				<a href="/">Home</a>
+		
+		<body>
+			<div class="topnavigation">
 	        		<a href="/cv">CV</a>
 	        		<a href="/publications">Publications</a>
 	        		<a href="/teaching">Teaching</a>
-			</div>
-
-			<div id="main">
-			  <span style="font-size:25px;font-family:Lato;cursor:pointer" onclick="openNav()">&#9776; Main menu</span>
-			  
-				
-			</div>
-
-			<script>
-			function openNav() {
-			    document.getElementById("mySidenav").style.width = "250px";
-			    document.getElementById("main").style.marginLeft = "140px";
-			}
-
-			function closeNav() {
-			    document.getElementById("mySidenav").style.width = "0";
-			    document.getElementById("main").style.marginLeft= "0";
-			}
-			</script>
+			<div/>
 
 			<div class="container">
 			
