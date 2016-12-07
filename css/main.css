@@ -30,7 +30,6 @@ h1 {
 }	
 
 .h1logocontainer {
-    position: relative;
     text-align: center; 
     width:80%;
     height: 7em;
@@ -43,7 +42,7 @@ h1 {
     position:absolute;
     top: 50%;
     left:50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-30%, -30%);
   
     
     text-align: center; 
