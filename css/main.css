@@ -41,10 +41,10 @@ h1 {
 
 .h1logohelper {
     position: absolute;
-  
-    text-align: center; 
+   
     top: 50%;
-    vertical-align: middle;
+    left:50%
+    
    
     border: 3px solid #8AC007;
     
