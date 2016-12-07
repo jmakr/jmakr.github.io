@@ -4,7 +4,7 @@ header {
   width:100%;
   height: 7em;
   text-align: center;
-  border-bottom: thin solid #d5d5d5;
+  border-bottom: thin solid #272221;
   font-size: 2em;
   margin-bottom: 0;
   margin-top: 0;
@@ -52,14 +52,14 @@ h1 {
 }
 section {
   
-    width: 80%;
+    width: 100%;
     height: 3em;
     background-color: #FEFCFF;
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
     margin-top: auto;
-  border-bottom: thin solid #d5d5d5; 
+  border-bottom: thin solid #272221; 
     
     
 }
