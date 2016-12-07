@@ -11,12 +11,12 @@ header {
 }
 
 hr {
-  color:black;
+  color:#000000;
   top: 0; 
   left: 0;
-  size=4em; 
+  size=6em; 
    width: 100%;   
-  position: fixed; 
+  position: absolute; 
  
 }  
        
