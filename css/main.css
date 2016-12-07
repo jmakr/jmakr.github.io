@@ -29,13 +29,18 @@ h1 {
   
 }	
 
-.h1logocontainer {
-    position: relative;
-    text-align: center; 
+.h1bigcontainer {
     width:80%;
     height: 7em;
-  
     border: 3px solid #8AC007;
+  
+}
+.h1logocontainer {
+    position: relative;
+    text-align: center;
+    border: 3px solid #8AC007;
+    
+    
     
 }
 
