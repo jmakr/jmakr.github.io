@@ -12,10 +12,11 @@ header {
 
 hr {
   color:black;
-  size=10px;
-  position: absolute; 
-       top: 0; 
-       left: 0; 
+  size=50px;
+   top: 0; 
+   left: 0; 
+  position: relative; 
+      
        width: 100%;   
 }
 
