@@ -12,13 +12,14 @@ header {
 
 hr {
   color:black;
-  size=1em;
-   top: 0; 
-   left: 0; 
-  position: relative; 
-      
-       width: 100%;   
-}
+  top: 0; 
+  left: 0;
+  size=1em; 
+   width: 100%;   
+  position: fixed; 
+ 
+}  
+       
 
 h1#logo {
   display: block;
