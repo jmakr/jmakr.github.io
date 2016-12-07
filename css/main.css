@@ -50,20 +50,18 @@ h1 {
     vertical-align:middle;
     
 }
-
-body {
+section {
+  
     width: 80%;
+    height: 3em;
     background-color: #FEFCFF;
     margin-right: auto;
-    margin-bottom: auto;
     margin-left: auto;
-    font-size: 16px;
+    margin-bottom: auto;
+    margin-top: auto;
     
     
 }
-
-
-}	
 
 .topnavigationcontainer {
   
@@ -90,6 +88,17 @@ body {
   color: black;
   border: 3px solid #8AC007;
   
+}
+
+body {
+    width: 80%;
+    background-color: #FEFCFF;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    font-size: 16px;
+    
+    
 }
 
 
