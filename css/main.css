@@ -1,7 +1,8 @@
 header {
-  background-color: #FEFCFF;
-  height: 7em;
   display: block;
+  background-color: #FEFCFF;
+  width:100%;
+  height: 7em;
   text-align: center;
   border-bottom: thin solid #d5d5d5;
   font-size: 2em;
@@ -20,7 +21,6 @@ header {
        
 
 h1 {
-  display: block;
   text-align: center;
   font-family: 'Vollkorn', serif;
   font-size: 30px;
@@ -35,11 +35,11 @@ h1 {
 
 .h1logohelper {
     position: absolute;
+    width: 100%;
     top: 50%;
     vertical-align: middle;
-    left: 0;
-    width: 100%;
     text-align: center;
+    
 }
 
 body {
