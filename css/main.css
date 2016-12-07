@@ -59,6 +59,7 @@ section {
     margin-left: auto;
     margin-bottom: auto;
     margin-top: auto;
+  border-bottom: thin solid #d5d5d5; 
     
     
 }
@@ -72,8 +73,8 @@ section {
     margin-top: auto;
     height: 3em;
     width:100%;
-  border-bottom: thin solid #d5d5d5; 
-  border: 3px solid #FF0000;
+  
+
 }
 
 .topnavigation {
@@ -86,7 +87,7 @@ section {
   text-align: center;
   font-size: 15px;
   color: black;
-  border: 3px solid #8AC007;
+  
   
 }
 
