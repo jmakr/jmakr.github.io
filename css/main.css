@@ -24,7 +24,7 @@ h1 {
   text-align: center;
   font-family: 'Vollkorn', serif;
   font-size: 30px;
-  border: 3px solid #8AC007;
+  
 
   
 }	
@@ -35,7 +35,7 @@ h1 {
     height: 7em;
     margin-left: auto;
     margin-right: auto;
-    border: 3px solid #8AC007;
+    
     
     
     
@@ -50,9 +50,6 @@ h1 {
     
     text-align: center; 
     vertical-align:middle;
-    
-   
-    border: 3px solid #8AC007;
     
 }
 
