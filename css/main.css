@@ -11,12 +11,11 @@ header {
 }
 
 .hr {
+  position: absolute; 
   color:#000000;
   top: 0; 
   left: 0; 
   width: 100%;   
-  position: absolute; 
- 
 }  
        
 
@@ -30,9 +29,7 @@ h1#logo {
 }	
 
 .h1logocontainer {
-    
     position: relative;
-    
     
 }
 
@@ -48,6 +45,7 @@ h1#logo {
 .topnavigation {
   position: absolute;
   font-family: "Lato", sans-serif;
+  text-align: center;
   font-size: 10px;
   color:black;
   
@@ -60,6 +58,7 @@ body {
     margin-right: auto;
     margin-bottom: auto;
     margin-left: auto;
+    font-size: 1.5em;
     width: 80%;
     
 }
