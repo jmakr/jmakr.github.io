@@ -46,6 +46,7 @@ h1#logo {
 
 .topnavigationcontainer {
   position: relative;
+  width: 80%;
   height: 2em;
   text-align: center;
   border-bottom: thin solid #d5d5d5;
