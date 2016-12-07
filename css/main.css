@@ -12,8 +12,8 @@ header {
 
 hr {
   color:black;
-  top: -10%; 
-  left: -10%;
+  top: 0; 
+  left: 0;
   size=4em; 
    width: 100%;   
   position: fixed; 
