@@ -10,11 +10,11 @@ header {
   
 }
 
-rectangle {
+hr {
   color:black;
-  top: 0; 
-  left: 0;
-  size=1em; 
+  top: -10%; 
+  left: -10%;
+  size=4em; 
    width: 100%;   
   position: fixed; 
  
