@@ -22,7 +22,7 @@ header {
 
 h1 {
   text-align: center;
-  font-family: 'Vollkorn', serif;
+  font-family: 'Julius Sans One', sans-serif;
   font-size: 30px;
   
 
@@ -116,16 +116,16 @@ a:hover {
 h2 {
     font-size: 1.5em;
     color:black;
-    font-family: "Lato", sans-serif;
+    font-family: 'Crimson Text', serif;
 }
 
 h3 {
     font-size: 1em;
     color: grey;
-    font-family: "Lato", sans-serif;
+    font-family: 'Crimson Text', serif;
 }
 p {
-    font-family: "Lato", sans-serif ;
+    font-family: 'Crimson Text', serif;
     font-size: 1.0em;
     line-height: 1.6em;
     color: #333;
@@ -145,7 +145,7 @@ p {
 }
 
 p2 {
-    font-family: "Lato", sans-serif ;
+    font-family: 'Crimson Text', serif;
     font-size: 1.0em;
     line-height: 1.6em;
     color: #333;
@@ -178,7 +178,7 @@ footer {
     
 }
 nav ul, footer ul {
-    font-family: "Lato", sans-serif;
+    font-family: 'Crimson Text', serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -194,7 +194,7 @@ nav ul li, footer ul li {
 ul.posts { 
     font-size: 1.19em;
     line-height: 1.6em;
-    font-family: "Lato", sans-serif;
+    font-family: 'Crimson Text', serif;
     color: #333;
     
 }
@@ -203,7 +203,7 @@ ul.posts li {
     list-style: none;
     font-size: 1em;
     line-height: 1.6em;
-    font-family: "Lato", sans-serif;
+    font-family: 'Crimson Text', serif;
 
     color: #333;
 }
