@@ -40,14 +40,13 @@ h1 {
 }
 
 .h1logohelper {
-    position: absolute;
     width:50%;
-    height: 2em;
     
     margin-top:auto;
-    margin-right: auto;
     margin-bottom: auto;
+    margin-right: auto;
     margin-left: auto;
+    
 
     text-align: center; 
     vertical-align:middle;
