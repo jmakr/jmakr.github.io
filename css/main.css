@@ -37,8 +37,6 @@ h1 {
     margin-right: auto;
     
     
-    
-    
 }
 
 .h1logohelper {
@@ -69,11 +67,12 @@ body {
 
 .topnavigationcontainer {
   
-  height: 2em;
-  text-align: center;
+  height: 3em;
+  width:100%;
     margin-right: auto;
     margin-bottom: auto;
     margin-left: auto;
+    margin-top: auto;
   border-bottom: thin solid #d5d5d5; 
   border: 3px solid #8AC007;
 }
