@@ -200,4 +200,9 @@ ul {
 
 ul li {
       display: inline;
+      text-align: center;
+      margin-right: auto;
+      margin-left: auto;
+      margin-top:auto;
+      margin-bottom:auto;
 }
