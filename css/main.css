@@ -175,49 +175,18 @@ p2 {
 footer {
     clear:both;
     border-top: thin solid #272221;
-    font-size: .8em;
-    height: 4em;
+    height: 6em;
     margin-right: auto;
     margin-left: auto;
     margin-top:auto;
     margin-bottom:auto;
     
 }
-nav ul, footer ul {
-    font-family: "Lato", sans-serif;
-    height: 4em;
-    list-style: none;
-    font-weight: bold;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top:auto;
-    margin-bottom:auto;
-  
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top:auto;
-    margin-bottom:auto;
-  
-}
 
 
-
-ul.posts { 
-    margin-right: auto;
-    margin-left: auto;
-    margin-top:auto;
-    margin-bottom:auto;
-    font-size: 1.19em;
-    line-height: 1.6em;
-    font-family: "Lato", sans-serif;
-    color: #333;
-    
-}
 
 ul.posts li {
+    display:inline;
     margin-right: auto;
     margin-left: auto;
     margin-top:auto;
