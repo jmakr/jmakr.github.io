@@ -183,23 +183,21 @@ footer {
     
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
 
+ nav ul {
+      list-style: none;
+      display:inline;
+      text-align: center;
+      margin-right: auto;
+      margin-left: auto;
+      margin-top:auto;
+      margin-bottom:auto;
+     font-family: "Lato", sans-serif;
+      color: #333;
+     font-size: 1em;
+      line-height: 1.6em;
+    
+      }
 
-ul.posts li {
-    display:inline;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top:auto;
-    margin-bottom:auto;
-    list-style: none;
-    font-size: 1em;
-    line-height: 1.6em;
-    font-family: "Lato", sans-serif;
-    color: #333;
-}
 
 
