@@ -176,6 +176,11 @@ footer {
     clear:both;
     border-top: thin solid #272221;
     font-size: .8em;
+    height: 4em;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:auto;
+    margin-bottom:auto;
     
 }
 nav ul, footer ul {
