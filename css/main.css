@@ -188,6 +188,10 @@ nav ul, footer ul {
     height: 4em;
     list-style: none;
     font-weight: bold;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:auto;
+    margin-bottom:auto;
   
 }
 nav ul li, footer ul li {
@@ -202,6 +206,10 @@ nav ul li, footer ul li {
 
 
 ul.posts { 
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:auto;
+    margin-bottom:auto;
     font-size: 1.19em;
     line-height: 1.6em;
     font-family: "Lato", sans-serif;
@@ -210,6 +218,10 @@ ul.posts {
 }
 
 ul.posts li {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:auto;
+    margin-bottom:auto;
     list-style: none;
     font-size: 1em;
     line-height: 1.6em;
