@@ -129,9 +129,16 @@ a:hover {
 
 h2 {
     font-size: 1.5em;
-    background-color:#8EAEBD;
     color:white;    
     font-family: 'Quattrocento', serif;
+}
+
+
+.h2back {
+   height: 2.5em;
+   width: 2.5em;
+   background-color:#8EAEBD; 
+    
 }
 
 h3 {
@@ -178,13 +185,15 @@ p2 {
     font-size: 1.0em;
     line-height: 1.6em;
     color: white;
-    background-color:#30415D;
     display: block;
     text-align:justify;
     padding-bottom:5%;
   
 }
-
+.p2back {
+ background-color:#8EAEBD; 
+  
+}
 }	
 
 .cvbox {
