@@ -130,16 +130,16 @@ a:hover {
 h2 {
     font-size: 1.5em;
     color:black;
-    font-family: "Lato", sans-serif;
+    font-family: 'Quattrocento', serif;
 }
 
 h3 {
     font-size: 1em;
     color: grey;
-    font-family: "Lato", sans-serif;
+    font-family: 'Quattrocento', serif;
 }
 p {
-    font-family: 'Vollkorn', serif;
+    font-family: 'Quattrocento', serif;
     font-size: 1.0em;
     line-height: 1.6em;
     color: #333;
@@ -173,7 +173,7 @@ p {
 
 p2 {
     display:block; 
-    font-family: 'Vollkorn', serif;
+    font-family: 'Quattrocento', serif;
     font-size: 1.0em;
     line-height: 1.6em;
     color: #333;
