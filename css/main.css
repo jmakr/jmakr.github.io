@@ -160,6 +160,7 @@ p2 {
 }	
 
 .cvbox {
+    display:block;
     position: relative;
     width:80%;
     height: 7em;
