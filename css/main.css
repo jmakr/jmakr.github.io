@@ -159,6 +159,7 @@ p {
 
 .blurb2 {
     float: left;
+    display:block; 
     width: 80%;
     height: 100%;
     padding-left:4%;
@@ -170,6 +171,7 @@ p {
 }
 
 p2 {
+    display:block; 
     font-family: 'Vollkorn', serif;
     font-size: 1.0em;
     line-height: 1.6em;
