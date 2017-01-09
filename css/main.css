@@ -12,7 +12,7 @@ header {
 
 .hr {
   position: absolute; 
-  color:#000000;
+  color:#CF6766;
   top: 0; 
   left: 0; 
   width: 100%;   
@@ -80,14 +80,14 @@ section {
 
 .topnavigation {
   position: absolute;
-  font-family: "Lato", sans-serif;
+  font-family: 'Oswald', sans-serif;
     top: 50%;
     left:50%;
     transform: translate(-48%, -30%);
 
   text-align: center;
   font-size: 15px;
-  color: black;
+  color: #CF6766;
   
   
 }
