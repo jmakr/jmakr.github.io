@@ -165,7 +165,6 @@ p {
 
 .blurb2 {
     float: left;
-    display:block; 
     width: 80%;
     height: 100%;
     padding-left:4%;
@@ -192,9 +191,9 @@ p2 {
 
 .cvbox {
     display:block;
+	height: 7em;
     position: relative;
     width:80%;
-    height: 7em;
     padding-bottom:5%;
     
     
