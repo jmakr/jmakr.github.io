@@ -22,7 +22,7 @@ header {
 .hr2helper {
   display:block;
   width: 80%;  
-  background: #031424;  /* ultramarine */ 
+  color: #031424;  /* ultramarine */ 
     margin-left: auto;
     margin-right: auto;
   text-align: center; 
@@ -66,7 +66,7 @@ section {
   
     width: 100%;
     height: 3em;
-    background-color: #031424; /* ultramarine */ 
+    color: #031424; /* ultramarine */ 
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
@@ -116,7 +116,7 @@ body {
 
 
 a {
-    color:#F5F5F5; /* eggshell */ 
+    color:#031424; /* ultramarine */ 
     text-decoration: none;
     padding:10px;
 }
