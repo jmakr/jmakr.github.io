@@ -128,6 +128,8 @@ a:hover {
 
 
 h2 {
+	
+    display:block;
     font-size: 1.5em;
     color:black;    
     font-family: 'Quattrocento', serif;
@@ -220,6 +222,7 @@ p2 {
 
 footer {
     clear:both;
+    display:block;
     height: 10em;
     margin-right: auto;
     margin-left: auto;
