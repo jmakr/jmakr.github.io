@@ -16,6 +16,22 @@ header {
   left: 0; 
   width: 100%;   
 }  
+
+.hr2 {
+  
+  position: absolute; 
+  color: CF6766; 
+  width:100%;
+  
+  
+  
+}
+
+.hr2helper {
+  display:block;
+  width: 65%;  
+  text-align: center; 
+}
        
 
 h1 {
