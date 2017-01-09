@@ -129,7 +129,8 @@ a:hover {
 
 h2 {
     font-size: 1.5em;
-    color:black;
+    background-color:#8EAEBD;
+    color:white;    
     font-family: 'Quattrocento', serif;
 }
 
@@ -176,7 +177,8 @@ p2 {
     font-family: 'Quattrocento', serif;
     font-size: 1.0em;
     line-height: 1.6em;
-    color: #333;
+    color: white;
+    background-color:#30415D;
     display: block;
     text-align:justify;
     padding-bottom:5%;
