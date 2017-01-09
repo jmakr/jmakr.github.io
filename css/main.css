@@ -105,6 +105,7 @@ section {
 }
 
 body {
+    display:block; 
     width: 80%;
     background-color: #FEFCFF;
     margin-right: auto;
