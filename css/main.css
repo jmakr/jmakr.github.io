@@ -1,6 +1,6 @@
 header {
   display: block;
-  background-color: #FEFCFF; /* pink white */ 
+  background-color: #8EAEBD; /* light blue */ 
   width:100%;
   height: 7em;
   text-align: center;
@@ -107,7 +107,7 @@ section {
 body {
     display:block; 
     width: 80%;
-    background-color: #FEFCFF;
+    background-color: #8EAEBD; /* light blue */ 
     margin-right: auto;
     margin-bottom: auto;
     margin-left: auto;
