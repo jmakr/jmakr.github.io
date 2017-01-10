@@ -1,6 +1,6 @@
 header {
   display: block;
-  background-color: #8EAEBD; /* light blue */ 
+  background-color: #F5F5F5; /*eggshell*/
   width:100%;
   height: 7em;
   text-align: center;
@@ -107,7 +107,7 @@ section {
 body {
     display:block; 
     width: 80%;
-    background-color: #8EAEBD; /* light blue */ 
+    background-color: #F5F5F5; /*eggshell*/ 
     margin-right: auto;
     margin-bottom: auto;
     margin-left: auto;
