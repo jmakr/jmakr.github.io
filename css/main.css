@@ -104,6 +104,16 @@ section {
   
 }
 
+a {
+    color:#031424; /* ultramarine */ 
+    text-decoration: none;
+    padding:10px;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+
 body {
     display:block; 
     width: 80%;
@@ -117,25 +127,13 @@ body {
 }
 
 
-a {
-    color:#031424; /* ultramarine */ 
-    text-decoration: none;
-    padding:10px;
-}
-a:hover {
-    text-decoration: underline;
-}
-
-
 h2 {
 	
     display:block;
     font-size: 1.5em;
-    color:black;    
+    color: #031424; /* ultramarine */    
     font-family: 'Quattrocento', serif;
 }
-
-
 
 
 h3 {
@@ -177,8 +175,8 @@ p {
 
 .cvblurb {
 	
-	
-	width: 80%;
+    display:block;
+    width: 80%;
     height: 7em;
     padding-left:4%;
     padding-top:2%;
@@ -193,23 +191,11 @@ p2 {
     font-family: 'Quattrocento', serif;
     font-size: 1.0em;
     line-height: 1.6em;
-    color: black;
+    color: #031424; /* ultramarine */ 
     display: block;
     text-align:justify;
     padding-bottom:5%;
   
-}
-
-	
-
-.cvbox {
-    display:block;
-	height: 7em;
-    
-    width:80%;
-    padding-bottom:5%;
-    
-    
 }
 
 .cvboxcentering {
