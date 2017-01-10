@@ -200,7 +200,10 @@ p2 {
 
 .cvboxcentering {
     display: block;
-    text-align:center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-top: auto;
      
 }
 .imagebox {
