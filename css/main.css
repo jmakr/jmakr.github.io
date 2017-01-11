@@ -145,7 +145,7 @@ h3 {
 }
 p {
     font-family: 'Rasa', serif;
-	font-weight: 600;
+	font-weight: 400;
     font-size: 1.0em;
     line-height: 1.6em;
     color: #333;
@@ -196,7 +196,7 @@ p {
 p2 {
     display:block; 
     font-family: 'Rasa', serif;
-	font-weight: 600;
+	font-weight: 400;
     font-size: 1.0em;
     line-height: 1.6em;
     color: #031424; /* ultramarine */ 
