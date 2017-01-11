@@ -132,17 +132,20 @@ h2 {
     display:block;
     font-size: 1.5em;
     color: #031424; /* ultramarine */    
-    font-family: 'Quattrocento', serif;
+    font-family: 'Rasa', serif;
+    font-weight: 600;
 }
 
 
 h3 {
     font-size: 1em;
     color: grey;
-    font-family: 'Quattrocento', serif;
+    font-family: 'Rasa', serif;
+    font-weight: 600;
 }
 p {
-    font-family: 'Quattrocento', serif;
+    font-family: 'Rasa', serif;
+	font-weight: 400;
     font-size: 1.0em;
     line-height: 1.6em;
     color: #333;
@@ -192,7 +195,8 @@ p {
 
 p2 {
     display:block; 
-    font-family: 'Quattrocento', serif;
+    font-family: 'Rasa', serif;
+	font-weight: 400;
     font-size: 1.0em;
     line-height: 1.6em;
     color: #031424; /* ultramarine */ 
