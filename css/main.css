@@ -157,8 +157,8 @@ p {
 }
 
 .frontpagebox {
-	display:inline;
-	width: 900px;	
+	display : inline;
+	width: 100%;	
 	
 
 }
