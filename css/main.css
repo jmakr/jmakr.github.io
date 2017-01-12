@@ -35,7 +35,7 @@ h1 {
   color:#CF6766;  /* crimson  */ 
   font-family: Oswald, Arial, sans-serif;
   font-weight:400;
-  font-size: 50px;
+  font-size: 48px;
   line-height: 120px;
   
 
@@ -98,7 +98,7 @@ section {
     transform: translate(-48%, -30%);
 
   text-align: center;
-  font-size: 15px;
+  font-size: 16px;
   
   
   
@@ -130,7 +130,7 @@ body {
 h2 {
 	
     display:block;
-    font-size: 1.5em;
+    font-size: 24px;
     color: #031424; /* ultramarine */    
     font-family: Rasa, "Century Schoolbook", serif;
     font-weight: 600;
@@ -138,16 +138,16 @@ h2 {
 
 
 h3 {
-    font-size: 1em;
+    font-size: 18px;
     color: grey;
     font-family: Rasa, "Century Schoolbook", serif;
     font-weight: 600;
 }
 p {
     font-family: Rasa, "Century Schoolbook", serif;
-	font-weight: 400;
-    font-size: 1.0em;
-    line-height: 1.6em;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
     color: #333;
 }
 
@@ -196,9 +196,9 @@ p {
 p2 {
     display:block; 
     font-family: Rasa, "Century Schoolbook",  serif;
-	font-weight: 400;
-    font-size: 1.0em;
-    line-height: 1.6em;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
     color: #031424; /* ultramarine */ 
     display: block;
     text-align:justify;
@@ -250,8 +250,8 @@ ul {
       padding: 35px;
       font-family: Oswald, Arial, sans-serif;
       color: #333;
-      font-size: .8em;
-      line-height: 1.6em;
+      font-size: 16px;
+      line-height: 24px;
     
 }
 
