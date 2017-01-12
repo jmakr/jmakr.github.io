@@ -227,6 +227,10 @@ p2 {
    
 }
 
+#frontpagebox {
+width: 780px;	
+}
+
 footer {
     
     display:block;
