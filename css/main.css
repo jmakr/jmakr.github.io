@@ -125,7 +125,7 @@ body {
     margin-bottom: auto;
     margin-left: auto;
     font-size: 16px;
-	overflow: hidden;
+	
     
     
 }
@@ -155,7 +155,7 @@ p {
     font-size: 16px;
     line-height: 24px;
     color: #333;
-	overflow: hidden;
+	
 }
 
 
@@ -166,7 +166,7 @@ p {
     padding-left:4%;
     padding-top:2%;
     padding-bottom:5%;
-	overflow: hidden;
+	
 
   
   
@@ -179,7 +179,7 @@ p {
     padding-left:4%;
     padding-top:2%;
     padding-bottom:5%;
-	overflow: hidden;
+	
 
   
   
@@ -197,7 +197,7 @@ p {
     margin-left: auto;
     margin-top:auto;
     margin-bottom:auto;
-	overflow: hidden;
+	
 	
 	
 	
@@ -213,7 +213,7 @@ p2 {
     display: block;
     text-align:justify;
     padding-bottom:5%;
-	overflow: hidden;
+	
   
 }
 
@@ -231,7 +231,7 @@ p2 {
     height: 65%;
     padding-bottom:5%;
     padding-top: 5%;
-	overflow: hidden;
+	
     
 
 }
@@ -249,7 +249,7 @@ footer {
     margin-left: auto;
     margin-top:auto;
     margin-bottom:auto;
-	overflow: hidden;
+	
     
 }
 
