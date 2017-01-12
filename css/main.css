@@ -156,12 +156,16 @@ p {
 	
 }
 
+.frontpagebox {
+	display:inline;
+	width: 900px;	
+	
+
+}
 
 .blurb {
     float: left;
-    padding-left:4%;
-    padding-top:2%;
-    padding-bottom:5%;
+    
 
 }
 
@@ -219,8 +223,7 @@ p2 {
 	
     float:left;
     display:inline;
-    padding-bottom:5%;
-    padding-top: 5%;
+    
 
 }
 .imagecenter{
@@ -229,12 +232,7 @@ p2 {
    
 }
 
-.frontpagebox {
-	display:inline;
-	width: 900px;	
-	
 
-}
 
 footer {
     
