@@ -218,6 +218,7 @@ p2 {
 .imagebox {
 	
     float:left;
+    display:inline;
     padding-bottom:5%;
     padding-top: 5%;
 
