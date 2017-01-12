@@ -7,6 +7,7 @@ header {
   font-size: 2em;
   margin-bottom: 0;
   margin-top: 0;
+	overflow: hidden;
   
 }
 
@@ -24,8 +25,8 @@ header {
   display:block;
   width: 80%;  
   color: #031424;  /* ultramarine */ 
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center; 
 }
        
@@ -37,6 +38,7 @@ h1 {
   font-weight:400;
   font-size: 48px;
   line-height: 120px;
+	overflow: hidden;
   
 
   
@@ -72,6 +74,7 @@ section {
     margin-left: auto;
     margin-bottom: auto;
     margin-top: auto;
+	overflow: hidden;
 
     
     
@@ -122,6 +125,7 @@ body {
     margin-bottom: auto;
     margin-left: auto;
     font-size: 16px;
+	overflow: hidden;
     
     
 }
@@ -134,6 +138,7 @@ h2 {
     color: #031424; /* ultramarine */    
     font-family: Rasa, "Century Schoolbook", serif;
     font-weight: 600;
+	overflow: hidden;
 }
 
 
@@ -142,6 +147,7 @@ h3 {
     color: grey;
     font-family: Rasa, "Century Schoolbook", serif;
     font-weight: 600;
+	overflow: hidden;
 }
 p {
     font-family: Rasa, "Century Schoolbook", serif;
@@ -159,6 +165,7 @@ p {
     padding-left:4%;
     padding-top:2%;
     padding-bottom:5%;
+	overflow: hidden;
 
   
   
@@ -171,6 +178,7 @@ p {
     padding-left:4%;
     padding-top:2%;
     padding-bottom:5%;
+	overflow: hidden;
 
   
   
@@ -188,6 +196,7 @@ p {
     margin-left: auto;
     margin-top:auto;
     margin-bottom:auto;
+	overflow: hidden;
 	
 	
 	
@@ -203,6 +212,7 @@ p2 {
     display: block;
     text-align:justify;
     padding-bottom:5%;
+	overflow: hidden;
   
 }
 
@@ -220,6 +230,7 @@ p2 {
     height: 65%;
     padding-bottom:5%;
     padding-top: 5%;
+	overflow: hidden;
     
 
 }
@@ -237,6 +248,7 @@ footer {
     margin-left: auto;
     margin-top:auto;
     margin-bottom:auto;
+	overflow: hidden;
     
 }
 
