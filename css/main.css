@@ -230,7 +230,9 @@ p2 {
 }
 
 .frontpagebox {
-width: 900px;	
+	display:inline;
+	width: 900px;	
+	
 
 }
 
