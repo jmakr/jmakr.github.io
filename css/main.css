@@ -79,8 +79,7 @@ section {
     
 }
 
-.topnavigationhelper {
-	position: absolute;	
+.topnavigationhelper {	
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: auto;
@@ -93,6 +92,7 @@ section {
 .topnavigation {
   font-family: Oswald, Arial, sans-serif;
   text-align: center;
+  vertical-align:middle;
   font-size: 16px;
 	 border: 5px solid red;
  
