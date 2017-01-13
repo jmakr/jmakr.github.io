@@ -75,7 +75,7 @@ section {
     margin-left: auto;
     margin-bottom: auto;
     margin-top: auto;
-    height: 3em;
+    height: 48px;
 	overflow: hidden;
 	border: 2px solid red;
 	
@@ -85,12 +85,12 @@ section {
 }
 
 .topnavigationhelper {	
-	height: 3em;
+	height: 48em;
 	width:100%;
 	margin-right: auto;
 	margin-left: auto;
-	margin-bottom: auto;
-	margin-top: auto;
+	margin-bottom: 16px;
+	margin-top: 16px;
 	border: 2px solid red;
 	 
 }
@@ -100,7 +100,7 @@ section {
   font-family: Oswald, Arial, sans-serif;
   text-align: center;
   vertical-align:middle;
-  font-size: 16px;
+  font-size: 14px;
 	border: 2px solid red;
 	
  
