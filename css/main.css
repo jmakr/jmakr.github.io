@@ -3,7 +3,7 @@
     height: 192px;
 	display:block;
     background-color: #F5F5F5; /*eggshell*/
-	border: 2px solid red;
+	
 	 
 }
 
@@ -15,7 +15,7 @@
         margin-right: auto;
   	margin-top:66px;
   	margin-bottom:66px;
-	border: 2px solid blue;
+	
 	
 	
   
@@ -29,7 +29,7 @@
   font-size: 64px;
   text-align: center;
 	
-	border: 2px solid green;
+	
 	
   
 }
@@ -58,7 +58,7 @@ h1 {
   color:#CF6766;  /* crimson  */ 
   font-family: Oswald, Arial, sans-serif;
   font-weight:400;
-  font-size: 64px;
+  font-size: 62px;
 	overflow: hidden;
   
 
