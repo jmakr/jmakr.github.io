@@ -157,7 +157,7 @@ p {
 }
 
 .frontpagebox {
-	display : inline;
+	display:inline;
 	width: 100%;	
 	
 
@@ -165,6 +165,7 @@ p {
 
 .blurb {
     float: left;
+    display:inline;
     
 
 }
