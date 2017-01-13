@@ -65,30 +65,20 @@ h1 {
 section {
   
     
-    height: 3em;
+    
     color: #031424; /* ultramarine */ 
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
     margin-top: auto;
+    height: 3em;
 	overflow: hidden;
 	border: 5px solid red;
     
     
 }
 
-.topnavigationcontainer {
-  
-    
-    margin-right: auto;
-    margin-left: auto;
-    margin-bottom: auto;
-    margin-top: auto;
-    height: 3em;
-    border: 5px solid red;
-  
 
-}
 
 .topnavigation {
   font-family: Oswald, Arial, sans-serif;
