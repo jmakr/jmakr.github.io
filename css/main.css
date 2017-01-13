@@ -164,7 +164,7 @@ p {
 .blurb {
     float: left;
     display:inline;
-    padding:16px;
+    margin:16px;
     
 
 }
@@ -221,7 +221,7 @@ p2 {
 }
 .imagebox {
     display:inline;
-    padding:16px;
+    margin:16px;
     
 
 }
