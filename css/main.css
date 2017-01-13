@@ -4,6 +4,7 @@
   font-size: 2em;
   text-align: center;
 	overflow: hidden;
+	border: 2px solid red;
 	
   
 }
@@ -16,6 +17,7 @@
     margin-right: auto;
     margin-top:auto;
     margin-bottom:auto;
+	border: 2px solid red;
 	 
 }
 
@@ -26,6 +28,7 @@
   margin-right: auto;
   margin-top:auto;
   margin-bottom:auto;
+	border: 2px solid red;
 	
 	
   
