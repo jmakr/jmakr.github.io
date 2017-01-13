@@ -119,6 +119,7 @@ a:hover {
 
 body {
     display:block; 
+    padding:20px;
     background-color: #F5F5F5; /*eggshell*/ 
     margin-right: auto;
     margin-bottom: auto;
@@ -159,8 +160,7 @@ p {
 .frontpagebox {
 	display:inline;
 	width: 100%;	
-	margin-top:20px;
-	margin-bottom:20px
+	
 }
 
 .blurb {
@@ -229,7 +229,7 @@ p2 {
 }
 .imagecenter{
     display: block;
-    float:right;
+    text-align: center; 
    
 }
 
