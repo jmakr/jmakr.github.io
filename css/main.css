@@ -229,7 +229,7 @@ p2 {
 }
 .imagecenter{
     display: block;
-    text-align:center;
+    float:right;
    
 }
 
