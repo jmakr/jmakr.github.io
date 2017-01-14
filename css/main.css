@@ -259,3 +259,7 @@ ul li {
       margin-top:auto;
       margin-bottom:auto;
 }
+
+
+.clear {
+  clear: left;}
