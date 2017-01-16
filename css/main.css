@@ -173,13 +173,6 @@ p {
 	
 }
 
-.frontpagebox {
-	display:inline;
-	height:450px;
-	width: 100%;	
-	
-}
-
 .blurb {
     float: left;
     display:inline;
@@ -220,8 +213,7 @@ p2 {
 }
 
 .p3box {
-   height: 400px; 
-	display:block;
+   height: 450px; 
 
 }
 
@@ -230,10 +222,9 @@ p3 {
     font-family: Lobster, cursive;
     font-weight: 400;
     font-size: 48px;
-    line-height: 64px;;
+    line-height: 64px;
     background-color: #031424; /* ultramarine */ 
 	color: #8EAEBD; /* lightblue */ 
-    display: block;
     text-align:left;
     padding-bottom:5%;
 	
