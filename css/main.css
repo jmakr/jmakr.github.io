@@ -240,7 +240,7 @@ p3 {
      
 }
 .imagebox {
-    display:inline;
+    display:block;
     margin:16px;
 	overflow:hidden;
     
