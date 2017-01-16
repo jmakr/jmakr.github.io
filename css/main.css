@@ -177,7 +177,7 @@ p {
 
 .blurb {
     float: left;
-    display:inline;
+    display:block;
    
     
 
