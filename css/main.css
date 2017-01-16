@@ -119,15 +119,15 @@ a:hover {
 
 body {
     display:block;
-    height: 200px;
+    height: 400px;
     font-size: 16px;
     padding: 10px 0px 5px 0px;
     background-color: #ffffff; /*__*/ 
 	
     margin-right: auto;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     margin-left: auto;
-    margin-top: 20px;
+    margin-top: 40px;
     
 	 
 }
@@ -175,6 +175,7 @@ p {
 
 .frontpagebox {
 	display:inline;
+	height:400px;
 	width: 100%;	
 	
 }
