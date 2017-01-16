@@ -2,7 +2,7 @@
     width:100%;
     height: 192px;
 	display:block;
-    background-color: #EFEFEF; /*neutral*/
+    background-color: #E9E9E9; /*neutral*/
 	
 	 
 }
@@ -120,7 +120,7 @@ a:hover {
 body {
     display:block; 
     padding:20px;
-    background-color: #EFEFEF; /*eggshell*/ 
+    background-color: #E9E9E9; /*eggshell*/ 
     margin-right: auto;
     margin-bottom: auto;
     margin-left: auto;
