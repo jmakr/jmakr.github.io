@@ -175,7 +175,7 @@ p {
 
 .blurb {
     float: left;
-    display:block;
+    display:inline;
    
     
 
@@ -239,14 +239,9 @@ p3 {
     margin-top: auto;
      
 }
-.imagebox {
-    display:block;
-	overflow:hidden;
-    
 
-}
-.imagecenter{
-    display: block;
+.imagebox{
+    display: inline;
     text-align: center; 
    
 }
