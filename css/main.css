@@ -211,10 +211,6 @@ p2 {
   
 }
 
-.p3box {
-   height: 450px; 
-
-}
 
 p3 {
     display:inline; 
@@ -225,7 +221,7 @@ p3 {
     background-color: #031424; /* ultramarine */ 
 	color: #8EAEBD; /* lightblue */ 
     text-align:left;
-    padding-bottom:5%;
+   
 	
   
 }
