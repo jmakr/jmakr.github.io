@@ -118,7 +118,7 @@ a:hover {
 
 
 body {
-    display:block;
+    display:inline;
     height: 450px;
     font-size: 16px;
     padding: 10px 0px 5px 0px;
@@ -205,7 +205,6 @@ p2 {
     font-size: 16px;
     line-height: 24px;
     color: #031424; /* ultramarine */ 
-    display: block;
     text-align:justify;
     padding-bottom:5%;
 	
@@ -218,7 +217,7 @@ p2 {
 }
 
 p3 {
-    display:block; 
+    display:inline; 
     font-family: Lobster, cursive;
     font-weight: 400;
     font-size: 48px;
