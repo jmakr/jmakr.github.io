@@ -121,7 +121,6 @@ body {
     display:inline;
     height: 450px;
     font-size: 16px;
-    padding: 10px 0px 5px 0px;
     background-color: #ffffff; /*__*/ 
 	
     margin-right: auto;
@@ -176,6 +175,7 @@ p {
 .blurb {
     float: left;
     display:block;
+	
    
     
 
@@ -226,6 +226,7 @@ p3 {
     background-color: #031424; /* ultramarine */ 
 	color: #8EAEBD; /* lightblue */ 
     text-align:left;
+	border: 2px solid red;
    
 	
   
