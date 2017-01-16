@@ -220,6 +220,7 @@ p2 {
 
 .p3box {
    height: 400px; 
+	display:block;
 
 }
 
@@ -228,11 +229,11 @@ p3 {
     font-family: Lobster, cursive;
     font-weight: 400;
     font-size: 48px;
-    line-height: 24px;
+    line-height: 64px;;
     background-color: #031424; /* ultramarine */ 
 	color: #8EAEBD; /* lightblue */ 
     display: block;
-    text-align:justify;
+    text-align:left;
     padding-bottom:5%;
 	
   
