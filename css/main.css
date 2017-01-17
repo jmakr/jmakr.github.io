@@ -55,7 +55,7 @@
 
 h1 {
   text-align: center;
-  color:#963019;  /* deep red  */ 
+  color:#e37222;  /* tangerine  */ 
   font-family: Oswald, Arial, sans-serif;
   font-weight:400;
   font-size: 62px;
@@ -68,7 +68,7 @@ h1 {
 
 section {
   
-    background-color: #667467; /* army green */
+    background-color: #66b9bf; /* powder */
     position: relative;
     color: #16174f; /* deep blue */ 
     margin-right: auto;
@@ -156,7 +156,7 @@ h4 {
     font-family: Lobster, cursive;
     font-weight: 400;
     font-size: 32px;
-    color: #667467; /* army green */ 
+    color: #66b9bf; /* powder */ 
     display: block;
     text-align:justify;
     padding-bottom:5%;
@@ -219,7 +219,7 @@ p2 {
 
 .p3box{
 height:450px;	
-background-color: #667467; /* army green */ 
+background-color: #66b9bf; /* powder */ 
 }
 
 p3 {
