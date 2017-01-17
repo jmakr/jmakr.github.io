@@ -219,6 +219,7 @@ p2 {
 
 .p3box{
 height:450px;	
+background-color: #caebf2; /* lightblue */ 
 }
 
 p3 {
@@ -227,7 +228,7 @@ p3 {
     font-weight: 400;
     font-size: 48px;
     line-height: 64px;
-    background-color: #caebf2; /* lightblue */ 
+    
 	color:  #031424; /* ultramarine */ 
     text-align:left;
 	
