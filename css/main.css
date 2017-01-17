@@ -100,6 +100,7 @@ section {
   text-align: center;
   vertical-align:middle;
   font-size: 14px;
+  color: #e8e8e8; /* clean*/ 
 	
 	
  
@@ -276,6 +277,7 @@ ul {
 
 ul li {
       display: inline;
+     color:#373737;  /* charcoal  */ 
       text-align: center;
       margin-right: auto;
       margin-left: auto;
