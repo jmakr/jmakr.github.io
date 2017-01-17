@@ -109,6 +109,7 @@ section {
 }
 
 a {
+    color: #e8e8e8; /* clean*/ 
     text-decoration: none;
     padding:10px;
 }
