@@ -2,7 +2,7 @@
     width:100%;
     height: 100px;
     display:block;
-    background-color: #f4f4f4; /*paper*/
+    background-color: #f78733; /*sunshine*/
 	
 	 
 }
@@ -55,7 +55,7 @@
 
 h1 {
   text-align: center;
-  color:#e37222;  /* tangerine  */ 
+  color:#fc4a1a;  /* vermillion  */ 
   font-family: Oswald, Arial, sans-serif;
   font-weight:400;
   font-size: 62px;
@@ -121,7 +121,7 @@ body {
     display:inline;
     height: 450px;
     font-size: 16px;
-    background-color: #f4f4f4; /*paper*/ 
+    background-color: #f78733; /*sunshine*/ 
 	
     margin-right: auto;
     margin-bottom: 40px;
@@ -249,7 +249,7 @@ p3 {
 
 
 footer {
-    background-color:f4f4f4; /* paper */ 
+    background-color:f78733; /* sunshine */ 
     display:block;
     height: 100px;
     margin-right: auto;
