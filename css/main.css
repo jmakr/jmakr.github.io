@@ -68,9 +68,9 @@ h1 {
 
 section {
   
-    background-color: #66b9bf; /* powder */
+    background-color: #333a56; /* vermillion */
     position: relative;
-    color: #16174f; /* deep blue */ 
+    color: #e8e8e8; /* clean*/ 
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
@@ -156,7 +156,7 @@ h4 {
     font-family: Lobster, cursive;
     font-weight: 400;
     font-size: 32px;
-    color: #66b9bf; /* powder */ 
+    color: #333a56; /* vermillion */ 
     display: block;
     text-align:justify;
     padding-bottom:5%;
@@ -219,7 +219,7 @@ p2 {
 
 .p3box{
 height:450px;	
-background-color: #66b9bf; /* powder */ 
+background-color: #52658f; /* sunshine */ 
 }
 
 p3 {
@@ -229,7 +229,7 @@ p3 {
     font-size: 48px;
     line-height: 64px;
     
-	color:  #16174f; /* deepblue */ 
+	color:  #e8e8e8; /* clean */ 
     text-align:left;
 	
    
