@@ -46,7 +46,7 @@
 .hr2helper {
   display:block;
   width: 100%;  
-  color: #16174f;  /* deep blue */ 
+  color:#373737;  /* charcoal  */ 
   margin-left: auto;
   margin-right: auto;
   text-align: center; 
@@ -136,7 +136,7 @@ h2 {
 	
     display:block;
     font-size: 24px;
-    color: #16174f; /* deep blue */    
+    color:#373737;  /* charcoal  */     
     font-family: Rasa, "Century Schoolbook", serif;
     font-weight: 600;
 	overflow: hidden;
@@ -168,7 +168,7 @@ p {
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    color: #333;
+    color:#373737;  /* charcoal  */ 
 	
 }
 
@@ -210,7 +210,7 @@ p2 {
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    color: #16174f; /* deep blue */ 
+    color:#373737;  /* charcoal  */ 
     text-align:justify;
     padding-bottom:5%;
 	
@@ -219,7 +219,7 @@ p2 {
 
 .p3box{
 height:450px;	
-background-color: #52658f; /* sunshine */ 
+background-color: #52658f; /* accent blue */ 
 }
 
 p3 {
