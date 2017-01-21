@@ -68,9 +68,9 @@ h1 {
 
 section {
   
-    background-color: #333a56; /* vermillion */
+    background-color: #ffffff; /* white */
     position: relative;
-    color: #e8e8e8; /* clean*/ 
+    color: #373737; /* charcoal*/ 
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
@@ -100,7 +100,7 @@ section {
   text-align: center;
   vertical-align:middle;
   font-size: 14px;
-  color: #e8e8e8; /* clean*/ 
+  color: #373737; /* charcoal*/ 
 	
 	
  
@@ -109,7 +109,7 @@ section {
 }
 
 a {
-    color: #e8e8e8; /* clean*/ 
+    color: #373737; /* charcoal*/ 
     text-decoration: none;
     padding:10px;
 }
