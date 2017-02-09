@@ -46,7 +46,7 @@
 .hr2helper {
   display:block;
   width: 100%;  
-  color:#B82601;  /* EMBERS  */ 
+  color:#8B0000;  /* dark red  */ 
   margin-left: auto;
   margin-right: auto;
   text-align: center; 
@@ -55,7 +55,7 @@
 
 h1 {
   text-align: center;
-  color:#B82601;  /* EMBERS  */ 
+  color:#8B0000;  /* dark red  */ 
   font-family: Oswald, Arial, sans-serif;
   font-weight:400;
   font-size: 62px;
