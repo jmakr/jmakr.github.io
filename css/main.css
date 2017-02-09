@@ -183,10 +183,14 @@ p {
 
 }
 .imagebox {
-float:right;
 height:450px;
 width:300px;
 	
+}
+
+img {
+display:block;
+float:right;
 }
 
 .cvblurb {
