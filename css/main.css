@@ -183,6 +183,8 @@ p {
 
 }
 .imagebox {
+float: left;
+display:block;
 height:450px;
 width:300px;
 	
