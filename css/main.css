@@ -293,7 +293,7 @@ ul li {
       margin-bottom:auto;
 }
 
-ul blog{
+ul.posts{
       list-style: none;
       text-align: center;
       margin-right: auto;
@@ -311,14 +311,6 @@ ul blog{
     
 }
 
-ul li blog {
-      display: inline;
-      text-align: center;
-      margin-right: auto;
-      margin-left: auto;
-      margin-top:auto;
-      margin-bottom:auto;
-}
 
 
 .clear {
