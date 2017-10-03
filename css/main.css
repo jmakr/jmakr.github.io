@@ -235,7 +235,6 @@ p2 {
     text-align:justify;
     padding-bottom:5%;
 	
-  
 }
 
 .p3box{
@@ -253,9 +252,31 @@ p3 {
 	color:  #e8e8e8; /* clean */ 
     text-align:left;
 	
-   
-	
   
+}
+
+p4 {
+    display:block; 
+    font-family: Rasa, "Century Schoolbook",  serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color:#373737;  /* charcoal  */ 
+    text-align:justify;
+    padding-bottom:5%;
+	
+}
+
+p5 {
+    display:block; 
+    font-family: Rasa, "Century Schoolbook",  serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    color:#373737;  /* charcoal  */ 
+    text-align:justify;
+    padding-bottom:5%;
+	
 }
 
 .cvboxcentering {
