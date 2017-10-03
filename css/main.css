@@ -102,9 +102,6 @@ section {
   font-size: 14px;
   color: #373737; /* charcoal*/ 
 	
-	
- 
-  
   
 }
 
@@ -162,7 +159,23 @@ h4 {
     text-align:justify;
     padding-bottom:5%;
 	
-  
+}
+
+h5 { /* blog header  */
+	
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+    display:block; 
+    font-family: Lobster, cursive;
+    font-weight: 400;
+    font-size: 48px;
+    color: #333a56; /* vermillion */ 
+    display: block;
+    text-align:justify;
+    padding-bottom:5%;
+	
 }
 p {
     font-family: Rasa, "Century Schoolbook", serif;
