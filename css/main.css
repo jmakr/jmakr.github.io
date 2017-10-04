@@ -111,6 +111,7 @@ a:hover {
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
+	border:2px red solid;
 	
 }
 
@@ -189,6 +190,7 @@ h4 {
     color: #333a56; /* vermillion */ 
     text-align:justify;
     padding-bottom:5%;
+	border:2px yellow solid;
 	
 }
 
