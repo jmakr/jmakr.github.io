@@ -29,9 +29,6 @@
   font-size: 64px;
   text-align: center;
 	
-	
-	
-  
 }
 
 .hr {
@@ -134,6 +131,14 @@ a:hover {
 	
 }
 
+.datehelper{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:auto;
+    margin-bottom:auto;
+	
+	
+}
 
 body {
     display:inline;
