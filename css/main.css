@@ -188,10 +188,6 @@ h4 {
 
 h5 { /* blog header  */
 	
-	margin-right: auto;
-	margin-left: auto;
-	margin-bottom: auto;
-	margin-top: auto;
     display:block; 
     font-family: Lobster, cursive;
     font-weight: 400;
@@ -202,6 +198,16 @@ h5 { /* blog header  */
     padding-bottom:5%;
 	
 }
+
+.bheadercontainer{/* blog header container  */
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+	
+	
+}
+
 p {
     font-family: Rasa, "Century Schoolbook", serif;
     font-weight: 400;
