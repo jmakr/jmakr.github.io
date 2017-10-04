@@ -106,14 +106,16 @@ a:hover {
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
+	margin-top: 50px;
+	margin-bottom:50px;
 	border: 2px solid red;
 	
 	
 }
 .beaderhelper{
-	height: 96px;
-	margin-top: auto;
-	margin-bottom:auto;
+
+	margin: auto;
+	
 	border: 2px solid yellow;
 	
 }
