@@ -124,6 +124,8 @@ a:hover {
 .posthelper {
 	font-size: 26px;
     	line-height: 28px;
+	width:100%;
+	margin: 0px;
 	margin-right: auto;
    	margin-left: auto;
 	margin-bottom: auto;
@@ -132,6 +134,8 @@ a:hover {
 }
 
 .datehelper{
+    width:100%;
+	margin: 0px;
     margin-right: auto;
     margin-left: auto;
     margin-top:auto;
@@ -200,6 +204,8 @@ h5 { /* blog header  */
 }
 
 .bheadercontainer{/* blog header container  */
+	width:100%;
+	margin: 0px;
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: auto;
@@ -220,12 +226,8 @@ p {
 .blurb {
     float: left;
     display:block;
-	
-	
-   
-    
-
 }
+
 .imagebox {
 float: left;
 display:block;
@@ -234,7 +236,7 @@ width:350px;
 	
 }
 
-.imagehelper{
+.imagehelper {
 height:450;	
 	
 }
