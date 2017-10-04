@@ -201,12 +201,12 @@ h4 {
 
 
 
-p { /* blog font, because only p works in markdown*/
+p { /* blog font, because only p works in markdown, nearly black*/ 
     font-family: Vollkorn, serif;
     font-weight: 400;
     font-size: 18px;
     line-height: 24px;
-    color:#373737;  /* charcoal  */ 
+    color:#222222 
 	
 }
 
