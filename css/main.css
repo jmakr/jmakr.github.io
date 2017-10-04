@@ -106,12 +106,14 @@ a:hover {
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
+	border: 2px red;
 	
 	
 }
 .beaderhelper{
 	margin-top: auto;
 	margin-bottom:auto;
+	border: 2px yellow;
 	
 }
 
@@ -301,7 +303,7 @@ p6 { /* blog header  */
     line-height:2.0;
 	
     color: #333a56; /* vermillion */ 
-   
+   border: 2px green;
 	  	
 }
 
