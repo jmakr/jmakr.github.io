@@ -145,7 +145,7 @@ body {
 	text-align: justify;
 	font-size: 26px;
 	line-height: 28px;
-	padding-bottom: 5%;
+	
 	overflow: hidden;
 	
 }
@@ -156,6 +156,7 @@ body {
 	
 	margin-right: auto;
    	margin-left: auto;
+	padding-bottom: 10%;
 	
 	
 }
@@ -284,7 +285,7 @@ p4 {
     font-size: 24px;
     line-height: 24px;
     color:#373737;  /* charcoal  */ 
-    padding-bottom:5%;
+    
 	
 }
 
@@ -296,7 +297,7 @@ p5 {
     line-height: 24px;
     color:#373737;  /* charcoal  */ 
     text-align:justify;
-    padding-bottom:5%;
+   
 	
 }
 
