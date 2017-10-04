@@ -201,7 +201,7 @@ h4 {
 
 
 
-p {
+p { /* blog font, because only p works in markdown*/
     font-family: Vollkorn, serif;
     font-weight: 400;
     font-size: 18px;
@@ -248,7 +248,7 @@ height:450;
 	
 }
 
-p2 {
+p2 { /* Volkorn, charcoal*/
     display:block; 
     font-family: Vollkorn, serif;
     font-weight: 400;
@@ -265,20 +265,19 @@ height:450px;
 background-color: #22264b; /* deep, dark blue*/ 
 }
 
-p3 {
+p3 { /* Volkorn white*/
     display:block; 
-    font-family: Lobster, cursive;
+    font-family: Vollkorn, serif;
     font-weight: 400;
-    font-size: 48px;
-    line-height: 64px;
-    
-	color:  #e8e8e8; /* clean */ 
-    text-align:left;
+    font-size: 18px;
+    line-height: 24px;
+    color:  #e8e8e8; /* clean */ 
+   
 	
   
 }
 
-p4 {
+p4 { /* ????*/
     display:block; 
     font-family: Rasa, "Century Schoolbook",  serif;
     font-weight: 400;
@@ -289,7 +288,7 @@ p4 {
 	
 }
 
-p5 {
+p5 { /* ???*/
     display:block; 
     font-family: Rasa, "Century Schoolbook",  serif;
     font-weight: 400;
