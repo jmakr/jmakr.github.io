@@ -213,6 +213,7 @@ p {
 .blurb {
     float: left;
     display:block;
+	text-align:justify;
 	background-color: #222222; /* nearly black  */ 
 }
 
