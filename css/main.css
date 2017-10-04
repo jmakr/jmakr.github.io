@@ -102,7 +102,7 @@ a:hover {
 
 .bheadercontainer{/* blog header container  */
 	width:40%;
-	height: 62px;
+	height: 110px;
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
@@ -293,7 +293,7 @@ p6 { /* blog header  */
     position: relative;
     font-family: Lobster, cursive;
     font-size: 48px;
-    line-height:1.0;
+    line-height:2.0;
     color: #333a56; /* vermillion */ 
    
 	  	
