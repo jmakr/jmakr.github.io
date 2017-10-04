@@ -17,8 +17,6 @@
   	margin-bottom:18px;
 	
 	
-	
-  
     
 }
 
@@ -113,34 +111,31 @@ a:hover {
   
     position: relative;
     color: #373737; /* charcoal*/ 
-    margin-right: auto;
-    margin-left: auto;
-    margin-bottom: auto;
-    margin-top: auto;
+  	
     height: 200px;
+	width: 100%;
+	text-align: center;
+	font-size: 26px;
+	line-height: 28px;
 	overflow: hidden;
 	
 }
 .posthelper {
 	font-size: 26px;
     	line-height: 28px;
-	width:100%;
-	margin: 0px;
+	width:50%;
+	
 	margin-right: auto;
    	margin-left: auto;
-	margin-bottom: auto;
-    	margin-top: auto;
+	
 	
 }
 
 .datehelper{
-    width:100%;
-	margin: 0px;
+    width:30%;
+	
     margin-right: auto;
     margin-left: auto;
-    margin-top:auto;
-    margin-bottom:auto;
-	
 	
 }
 
@@ -204,12 +199,10 @@ h5 { /* blog header  */
 }
 
 .bheadercontainer{/* blog header container  */
-	width:100%;
-	margin: 0px;
+	width:30%;
+	
 	margin-right: auto;
 	margin-left: auto;
-	margin-bottom: auto;
-	margin-top: auto;
 	
 	
 }
