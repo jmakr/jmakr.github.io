@@ -107,7 +107,7 @@ a:hover {
 
 
 .bheadercontainer{/* blog header container  */
-	width:30%;
+	width:40%;
 	height: 54px;
 	text-align: center;
 	margin-right: auto;
@@ -148,7 +148,7 @@ body {
 	font-size: 26px;
 	line-height: 28px;
 	padding-bottom: 7%;
-	border:2px yellow solid;
+	
 	
 	
 }
@@ -156,7 +156,7 @@ body {
 	font-size: 26px;
     	line-height: 28px;
 	width:50%;
-	border:2px red solid;
+	
 	
 	margin-right: auto;
    	margin-left: auto;
@@ -199,7 +199,7 @@ h4 {
 
 h5 { /* blog header  */
 	
-   
+    position: relative;
     font-family: Lobster, cursive;
     font-weight: 400;
     font-size: 48px;
