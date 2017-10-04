@@ -108,6 +108,7 @@ a:hover {
 
 .bheadercontainer{/* blog header container  */
 	width:30%;
+	height: 36px;
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
