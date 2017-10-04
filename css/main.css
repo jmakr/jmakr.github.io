@@ -102,7 +102,7 @@ a:hover {
 
 .bheadercontainer{/* blog header container  */
 	width:40%;
-	height: 200px;
+	height: 100px;
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
@@ -113,8 +113,8 @@ a:hover {
 	
 }
 .beaderhelper{
-	height: 100px;
-	margin-top: 100px;
+	height: 56px;
+	margin-top: 40px;
 	
 }
 
@@ -298,7 +298,6 @@ p5 {
 p6 { /* blog header  */
 	
     	position: relative;
-	padding-bottom: 20px;
     	font-family: Playfair Display;
 	font-weight: 700;
 	font-size: 48px;
