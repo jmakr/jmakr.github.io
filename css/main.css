@@ -210,6 +210,10 @@ p {
 	
 }
 
+.blurbcontainer {
+	background-color: #222222; /* nearly black  */
+	
+}
 .blurb {
     float: left;
     display:block;
