@@ -142,12 +142,12 @@ body {
     position: relative;
     color: #373737; /* charcoal*/ 
   	
-    	height: 200px;
+    	height: 350px;
 	width: 100%;
 	text-align: justify;
 	font-size: 26px;
 	line-height: 28px;
-	padding-bottom: 5%;
+	padding-bottom: 7%;
 	border:2px yellow solid;
 	
 	
@@ -199,7 +199,7 @@ h4 {
 
 h5 { /* blog header  */
 	
-    display:block; 
+   
     font-family: Lobster, cursive;
     font-weight: 400;
     font-size: 48px;
