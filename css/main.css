@@ -114,7 +114,7 @@ a:hover {
 	
 }
 
-.datehelper{
+.datecontainer{
     width:30%;
 	text-align: center;
     margin-right: auto;
@@ -149,7 +149,7 @@ body {
 	overflow: hidden;
 	
 }
-.posthelper {
+.postcontainer {
 	font-size: 26px;
     	line-height: 28px;
 	width:50%;
