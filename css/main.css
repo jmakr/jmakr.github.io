@@ -61,7 +61,6 @@ h1 {
   
 }	
 
-
 section {
   
     background-color: #dde5f3; /* off blue */
@@ -72,9 +71,7 @@ section {
     margin-bottom: auto;
     margin-top: auto;
     height: 48px;
-	overflow: hidden;
-	
-    
+	overflow: hidden;    
 }
 
 .topnavigationhelper {	
@@ -148,7 +145,7 @@ body {
 	text-align: justify;
 	font-size: 26px;
 	line-height: 28px;
-	
+	padding-bottom: 7%;	
 	
 	
 }
@@ -159,7 +156,7 @@ body {
 	
 	margin-right: auto;
    	margin-left: auto;
-	padding-bottom: 7%;
+	
 	
 	
 }
