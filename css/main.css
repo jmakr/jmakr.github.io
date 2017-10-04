@@ -201,7 +201,7 @@ h4 {
 
 
 
-p { /* blog font, because only p works in markdown, nearly black*/ 
+p { /* blog font, because only p works in markdown, Vollkorn, nearly black*/ 
     font-family: Vollkorn, serif;
     font-weight: 400;
     font-size: 18px;
@@ -265,38 +265,39 @@ height:450px;
 background-color: #22264b; /* deep, dark blue*/ 
 }
 
-p3 { /* Volkorn nearly black, about page*/
-    display:block; 
-    font-family: Vollkorn, serif;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 24px;
-    color:  #222222; /* nearly black */ 
-   
-	
-  
-}
-
-p4 { /* ????*/
+p3 { /* date, on blog; Rasa 24 px*/
     display:block; 
     font-family: Rasa, "Century Schoolbook",  serif;
     font-weight: 400;
     font-size: 24px;
     line-height: 24px;
     color:#373737;  /* charcoal  */ 
+	
+	
+	
+   
+}
+
+p4 { 
+	font-family: Playfair Display;
+	font-weight: 400;
+	font-size: 42px;
+   
+	text-align: center;
+    	color:#373737;  /* charcoal  */ 
     
 	
 }
 
-p5 { /* ???*/
-    display:block; 
-    font-family: Rasa, "Century Schoolbook",  serif;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 24px;
-    color:#373737;  /* charcoal  */ 
-    text-align:justify;
+p5 { 
    
+	font-family: Playfair Display;
+	font-weight: 700;
+	font-style: italic;
+	font-size: 48px;
+   
+	text-align: center;
+    	color:#373737;  /* charcoal  */ 
 	
 }
 
