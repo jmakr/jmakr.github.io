@@ -111,6 +111,7 @@ a:hover {
 	
 }
 .beaderhelper{
+	height: 96px;
 	margin-top: auto;
 	margin-bottom:auto;
 	border: 2px solid yellow;
@@ -301,7 +302,7 @@ p6 { /* blog header  */
     font-family: Playfair Display;
 	font-weight: 700;
     font-size: 48px;
-    line-height:2.0;
+   
 	
     color:#373737;  /* charcoal  */ 
    border: 2px solid green;
