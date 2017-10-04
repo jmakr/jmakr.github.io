@@ -102,7 +102,7 @@ a:hover {
 
 .bheadercontainer{/* blog header container  */
 	width:40%;
-	height: 100px;
+	height: 140px;
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
@@ -113,8 +113,8 @@ a:hover {
 	
 }
 .beaderhelper{
-	height: 56px;
-	margin-top: 40px;
+	height: 80px;
+	margin-top: 60px;
 	
 }
 
