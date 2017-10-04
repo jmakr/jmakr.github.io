@@ -294,6 +294,8 @@ p6 { /* blog header  */
     font-family: Lobster, cursive;
     font-size: 48px;
     line-height:2.0;
+	margin-top: auto;
+	margin-bottom:auto;
     color: #333a56; /* vermillion */ 
    
 	  	
