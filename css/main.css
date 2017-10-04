@@ -250,7 +250,7 @@ p2 {
     font-family: Vollkorn, serif;
     font-weight: 400;
     font-size: 18px;
-    line-height: 20px;
+    line-height: 24px;
     color:#373737;  /* charcoal  */ 
     text-align:justify;
     padding-bottom:5%;
@@ -305,7 +305,7 @@ p6 { /* blog header  */
 	font-weight: 700;
     font-size: 48px;
    
-	
+	text-align: center;
     color:#373737;  /* charcoal  */ 
    border: 2px solid green;
 	  	
