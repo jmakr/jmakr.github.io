@@ -202,7 +202,7 @@ h4 {
 
 
 p {
-    font-family: Quattrocento, "Century Schoolbook", serif;
+    font-family: Fauna One, serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 24px;
@@ -299,10 +299,11 @@ p6 { /* blog header  */
 	
     position: relative;
     font-family: Playfair Display;
+	font-weight: 700;
     font-size: 48px;
     line-height:2.0;
 	
-    color: #333a56; /* vermillion */ 
+    color:#373737;  /* charcoal  */ 
    border: 2px green;
 	  	
 }
