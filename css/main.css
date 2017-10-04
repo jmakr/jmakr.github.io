@@ -265,7 +265,7 @@ height:450px;
 background-color: #22264b; /* deep, dark blue*/ 
 }
 
-p3 { /* Volkorn white*/
+p3 { /* Volkorn nearly black, about page*/
     display:block; 
     font-family: Vollkorn, serif;
     font-weight: 400;
@@ -300,7 +300,7 @@ p5 { /* ???*/
 	
 }
 
-p6 { /* blog header  */
+p6 { /* blog header, Playfair at 48px  */
 	
     	position: relative;
     	font-family: Playfair Display;
