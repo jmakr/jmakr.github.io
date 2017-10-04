@@ -202,6 +202,7 @@ h5 { /* blog header  */
     position: relative;
     font-family: Quattrocento;
     font-size: 48px;
+	line-height:1.0;
     color: #333a56; /* vermillion */ 
     text-align:center;
 	border:2px yellow solid;   	
