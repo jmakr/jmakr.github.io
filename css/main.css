@@ -144,7 +144,13 @@ body {
     position: relative;
     color: #373737; /* charcoal*/ 
   	
-    	height: 350px;
+    	
+	
+	height:auto;
+	min-height:350px;
+	height:auto !important;        /* for IE as it does not support min-height */
+	height:350px;                   /* for IE as it does not support min-height */
+	
 	width: 100%;
 	text-align: justify;
 	font-size: 26px;
