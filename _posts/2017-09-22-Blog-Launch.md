@@ -9,7 +9,7 @@ I'm happy to be launching a blog as part of my online portfolio!
 
 ![Image of typewriter](https://raw.githubusercontent.com/jmakr/jmakr.github.io/master/photo%20of%20typewriter%20from%20smithsonian.jpg)
 
-Please forgive the look of this environment while it is under construction; in order to meet my need for a personal website, I opted to teach myself HTML and CSS. The benefit is the feeling of accomplishment at having built these pages from the ground up. The cost is not being able to center some of the page's elements, such as the above photograph. 
+Please forgive the look of this environment while it is under construction; in order to meet my need for a personal website, I opted to teach myself HTML and CSS. The benefit is the feeling of accomplishment at having built these pages from the ground up. The cost is not being able to center some of the pages' elements--such as, for instance, the above photograph. 
 
 
 
