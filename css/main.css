@@ -240,6 +240,21 @@ height:450;
 	
 }
 
+}
+
+.imgpub {
+float: left;
+display:block;
+height:700px;
+width:420px;
+	
+}
+
+.imgpub2 {
+height:700px;	
+	
+}
+
 .cvblurb {
 	
     display:block;
